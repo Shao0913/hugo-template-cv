@@ -58,20 +58,18 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Language
-    items:
-      - name: Python
-      - name: PHP
-      - name: Perl
-      - name: HTML
-      - name: C/C++
-      - name: Java
-      - name: Rust
+      - Python
+      - PHP
+      - Perl
+      - HTML
+      - C/C++
+      - Java
+      - Rust
   - name: Tools
-    items:
-      - name: Linux
-      - name: Github/Gitlab
-      - name: MATLAB
-      - name: LaTeX
+      - Linux
+      - Github/Gitlab
+      - MATLAB
+      - LaTeX
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
