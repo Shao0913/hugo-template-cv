@@ -13,6 +13,6 @@ publication_short: In *CCNC*
 #   (CCNC)*'
 abstract: We propose an area segmentation algorithm which is completely distributed, highly responsive, and exhibits a wide range of application scenarios. The proposed algorithm segments the area based on similarity of local sensor data and therefore, it requires a similarity measure parametrized with selected system indicators. In addition, algorithm creates an energy efficient data aggregation tree with a local highest energy node as a root. The resulting segmented sub-areas represents a level of spatial diversity and an abstraction of the sensor field which has a wide range of large scale distributed applications. Through simulation, the application and working of our scheme is demonstrated.
 
-url: https://ieeexplore.ieee.org/abstract/document/8651869/  
+url: 'https://ieeexplore.ieee.org/abstract/document/8651869/'  
 url_code: 'https://github.com/Shao0913/Segmentation-and-Abstraction-of-an-IoT-Enabled-Distributed-Sensor-Network'
 ---
