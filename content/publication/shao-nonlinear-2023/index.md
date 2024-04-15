@@ -5,9 +5,14 @@ authors:
 - Xiuwen Liu
 date: '2023-10-01'
 publishDate: '2024-04-15T15:43:18.269994Z'
-publication_types:
-- manuscript
-publication: '*arXiv*'
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: The International Joint Conference on Neural Networks
+publication_short: IJCNN
 abstract: Graph-based semi-supervised learning (GSSL) has been used successfully in
   various applications. Existing methods leverage the graph structure and labeled
   samples for classification. Label Propagation (LP) and Graph Neural Networks (GNNs)
