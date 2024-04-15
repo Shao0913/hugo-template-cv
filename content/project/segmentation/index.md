@@ -12,7 +12,7 @@ external_link: ''
 links:
   - icon: github
     icon_pack: fab
-    link: https://github.com/Shao0913/Segmentation-and-Abstraction-of-an-IoT-Enabled-Distributed-Sensor-Network
+    url: https://github.com/Shao0913/Segmentation-and-Abstraction-of-an-IoT-Enabled-Distributed-Sensor-Network
 # url_code: 'https://gitlab.com/Shao1206/rels-dqn'
 
 ---

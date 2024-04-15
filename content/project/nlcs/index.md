@@ -1,9 +1,8 @@
 ---
-title: RELS-DQN
-summary: A Robust and Efficient Local Search Framework for Combinatorial Optimization.
+title: NLCS
+summary: The proposed NLCS is a combined post-processing method that incorporates non-linearity and higher-order representation into the residual propagation to address intricate node relationships effectively.
 tags:
   - Deep Learning
-  - Reinforcement Learning
   - Graph
 date: '2024-04-15T15:43:18.287503Z'
 
@@ -15,6 +14,4 @@ links:
     icon_pack: fab
     url: https://gitlab.com/Shao1206/rels-dqn
 # url_code: 'https://gitlab.com/Shao1206/rels-dqn'
-
-
 ---
