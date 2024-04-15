@@ -102,9 +102,9 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in the Department of Computer Science at Florida State University being advised by Prof. Xiuwen Liu. Experienced data science skills with projects worked as research and course projects. Currently, I focus on research areas related to using reinforcement learning to solve combinatorial optimization problems.
+I am a Ph.D. candidate in the Department of Computer Science at Florida State University being advised by Prof. Xiuwen Liu. My research focuses on graph neural networks and deep learning in various application areas, such as classification, combinatorial optimization, and stock prediction. 
 
-Experienced assisting in the administration of department computing and network resources. Currently I serve as department webmaster and doing website programming, updating, design, content re-factoring, and database administration.
+Experienced assisting in the administration of department computing and network resources. Currently, I serve as department webmaster and do website programming, updating, design, content re-factoring, and database administration.
 
-<strong>I am currently on the 2024-2025 job market, looking for full-time positions related to Graphs, Deep Learning, Artificial Intelligence, and Natural Language Processing.</strong> Please feel free to contact me if you are interested.
+<strong>I am currently in the 2024-2025 job market, looking for full-time positions related to Graphs, Deep Learning, Artificial Intelligence, and Natural Language Processing.</strong> Please feel free to contact me if you are interested.
 {style="text-align: justify;"}
