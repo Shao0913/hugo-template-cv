@@ -1,5 +1,5 @@
 ---
-title: Segmentation
+title: Segmentation and Abstraction of an IoT Enabled Distributed Sensor Network
 summary: The simulation implementation is based on MATLAB by using real data from NOAA.
 tags:
   - Application
@@ -15,3 +15,4 @@ links:
     link: https://github.com/Shao0913/Segmentation-and-Abstraction-of-an-IoT-Enabled-Distributed-Sensor-Network
 # url_code: 'https://gitlab.com/Shao1206/rels-dqn'
 
+---
