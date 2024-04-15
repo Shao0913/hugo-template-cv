@@ -27,7 +27,7 @@ sections:
           company: Florida State University
           company_url: ''
           company_logo: fsu
-          location: Florida
+          location: Florida, USA
           date_start: '2021-09-01'
           date_end: ''
           description: Serve as the department webmaster and do website programming, updating, design, content re-factoring, and database administration.
@@ -35,7 +35,7 @@ sections:
           company: Florida State University
           company_url: ''
           company_logo: fsu
-          location: Florida
+          location: Florida, USA
           date_start: '2021-01-01'
           date_end: '2021-09-01'
           description: Graduate Research Assistant in the Department of Computer Science.
@@ -43,7 +43,7 @@ sections:
           company: Florida State University
           company_url: ''
           company_logo: fsu
-          location: Florida
+          location: Florida, USA
           date_start: '2018-08-01'
           date_end: '2021-04-01'
           description: Graduate Teaching Assistant in the Department of Computer Science.
@@ -105,14 +105,6 @@ sections:
         country: United States
         country_code: US
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
