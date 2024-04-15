@@ -26,7 +26,7 @@ sections:
         - title: Graduate Assistant in Systems
           company: Florida State University
           company_url: ''
-          company_logo: icon.png
+          company_logo: fsu
           location: Florida
           date_start: 'Sep 2021'
           date_end: ''
@@ -34,7 +34,7 @@ sections:
         - title: Research Assistant
           company: Florida State University
           company_url: ''
-          company_logo: icon.png
+          company_logo: fsu
           location: Florida
           date_start: 'Jan 2021'
           date_end: 'Sep 2021'
@@ -42,7 +42,7 @@ sections:
         - title: Teaching Assistant
           company: Florida State University
           company_url: ''
-          company_logo: icon.png
+          company_logo: fsu
           location: Florida
           date_start: 'Aug 2018'
           date_end: 'April 2021'
