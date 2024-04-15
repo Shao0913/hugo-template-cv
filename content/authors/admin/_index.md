@@ -102,7 +102,7 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in the Department of Computer Science at Florida State University being advised by Prof. Xiuwen Liu.
+I am a Ph.D. candidate in the Department of Computer Science at Florida State University being advised by Prof. Xiuwen Liu.Experienced data science skills with projects worked as research and course projects. Currently, I focus on research areas related to using reinforcement learning to solve combinatorial optimization problems.
 
 Experienced assisting in the administration of department computing and network resources. Currently I serve as department webmaster and doing website programming, updating, design, content re-factoring, and database administration.
 
