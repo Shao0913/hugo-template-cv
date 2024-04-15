@@ -9,8 +9,7 @@ authors:
 - Alan Kuhnle
 date: '2023-04-01'
 publishDate: '2024-04-15T15:43:18.287503Z'
-publication_types:
-- manuscript
+publication_types: ["article"]
 publication: '*arXiv*'
 abstract: Combinatorial optimization (CO) aims to efficiently find the best solution
   to NP-hard problems ranging from statistical physics to social media marketing.

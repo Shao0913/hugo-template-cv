@@ -6,8 +6,7 @@ authors:
 - Xiuwen Liu
 date: '2023-08-01'
 publishDate: '2024-04-15T15:43:18.279790Z'
-publication_types:
-- manuscript
+publication_types: ["article"]
 publication: '*arXiv*'
 abstract: With the dynamic political and economic environments, the ever-changing
   stock markets generate large amounts of data daily. Acquiring up-to-date data is

@@ -11,8 +11,8 @@ publishDate: '2024-04-15T15:43:18.269994Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: The International Joint Conference on Neural Networks
-publication_short: IJCNN
+publication: In *The International Joint Conference on Neural Networks*
+publication_short: In *IJCNN*
 abstract: Graph-based semi-supervised learning (GSSL) has been used successfully in
   various applications. Existing methods leverage the graph structure and labeled
   samples for classification. Label Propagation (LP) and Graph Neural Networks (GNNs)
