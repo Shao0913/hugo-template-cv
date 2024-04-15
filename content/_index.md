@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experiences
     content:
       title: Experience
       # Date format for experience
@@ -77,6 +78,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
