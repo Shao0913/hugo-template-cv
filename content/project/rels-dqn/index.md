@@ -11,12 +11,11 @@ date: '2024-04-15T15:43:18.287503Z'
 external_link: ''
 
 
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-url_code: 'https://gitlab.com/Shao1206/rels-dqn'
+links:
+  - icon: github
+    icon_pack: fab
+    link: https://gitlab.com/Shao1206/rels-dqn
+# url_code: 'https://gitlab.com/Shao1206/rels-dqn'
 
 
 ---
