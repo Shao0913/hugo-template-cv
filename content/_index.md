@@ -28,7 +28,7 @@ sections:
           company_url: ''
           company_logo: fsu
           location: Florida
-          date_start: 'Sep 2021'
+          date_start: '2021-09-01'
           date_end: ''
           description: Serve as the department webmaster and do website programming, updating, design, content re-factoring, and database administration.
         - title: Research Assistant
@@ -36,16 +36,16 @@ sections:
           company_url: ''
           company_logo: fsu
           location: Florida
-          date_start: 'Jan 2021'
-          date_end: 'Sep 2021'
+          date_start: '2021-01-01'
+          date_end: '2021-09-01'
           description: Graduate Research Assistant in the Department of Computer Science.
         - title: Teaching Assistant
           company: Florida State University
           company_url: ''
           company_logo: fsu
           location: Florida
-          date_start: 'Aug 2018'
-          date_end: 'April 2021'
+          date_start: '2018-08-01'
+          date_end: '2021-04-01'
           description: Graduate Teaching Assistant in the Department of Computer Science.
     design:
       columns: '2'
