@@ -10,8 +10,7 @@ date: '2024-04-15T15:43:18.287503Z'
 external_link: ''
 
 links:
-  - icon: github
+  - icon: gitlab
     icon_pack: fab
-    url: https://gitlab.com/Shao1206/rels-dqn
-# url_code: 'https://gitlab.com/Shao1206/rels-dqn'
+    url: https://gitlab.com/Shao1206/nlcs
 ---

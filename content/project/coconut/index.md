@@ -1,5 +1,5 @@
 ---
-title: Coconut Database project
+title: Coconut Database Project
 summary: This project takes an input file containing dataseries, builds a tree and supports querying for the tree.
 tags:
   - Application
