@@ -31,4 +31,5 @@ tags:
 links:
 - name: URL
   url: http://arxiv.org/abs/2308.13414
+  url_code: 'https://github.com/amp1590/automatic_stock_data_collection'
 ---
