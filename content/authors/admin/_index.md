@@ -106,5 +106,5 @@ I am a Ph.D. candidate in the Department of Computer Science at Florida State Un
 
 Experienced assisting in the administration of department computing and network resources. Currently I serve as department webmaster and doing website programming, updating, design, content re-factoring, and database administration.
 
-<strong>I am currently on the 2024-2025 job market, looking for full-time positions related to Graphs, Deep Learning, Artificial Intelligence, and Natural Language Processing.<\strong> Please feel free to contact me if you are interested.
+<strong>I am currently on the 2024-2025 job market, looking for full-time positions related to Graphs, Deep Learning, Artificial Intelligence, and Natural Language Processing.</strong> Please feel free to contact me if you are interested.
 {style="text-align: justify;"}
